@@ -8,6 +8,7 @@
     "dev": "vite --open",
     "build": "vite build"
   },
+  "homepage": "https://renren.github.io/tp-ui",
   "author": "",
   "license": "ISC",
   "dependencies": {
